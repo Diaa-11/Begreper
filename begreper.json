@@ -1,0 +1,85 @@
+{
+    "begreper": [
+      {
+        "begrep": "Digitale bilder",
+        "forklaring": "Bilder som er lagret i et digitalt format og består av piksler."
+      },
+      {
+        "begrep": "Piksler",
+        "forklaring": "Små, fargede punkter som utgjør et digitalt bilde."
+      },
+      {
+        "begrep": "Lagring",
+        "forklaring": "Prosessen med å bevare digitale bilder eller data på et lagringsmedium som harddisker, minnepinner eller CD-ROM."
+      },
+      {
+        "begrep": "Bildepunkter",
+        "forklaring": "Mikroskopiske deler av et bilde som består av piksler eller farger."
+      },
+      {
+        "begrep": "Oppløsning",
+        "forklaring": "Antallet piksler som utgjør et bilde, målt i bredde og høyde, som påvirker kvaliteten på bildet."
+      },
+      {
+        "begrep": "Mikroskopiske deler",
+        "forklaring": "Små elementer som utgjør et større helhetlig bilde, som piksler."
+      },
+      {
+        "begrep": "Datamaskiner",
+        "forklaring": "Elektroniske enheter som behandler og lagrer digitale data."
+      },
+      {
+        "begrep": "0 eller 1 (binære tall)",
+        "forklaring": "Grunnleggende tallsystem i datamaskiner, der 0 representerer 'av' eller 'false' og 1 representerer 'på' eller 'true'."
+      },
+      {
+        "begrep": "Svart og hvitt",
+        "forklaring": "Enkel fargepalett som består av bare svarte og hvite toner."
+      },
+      {
+        "begrep": "Kamera",
+        "forklaring": "En enhet som brukes til å ta fotografier eller registrere bilder."
+      },
+      {
+        "begrep": "Minnekapasitet",
+        "forklaring": "Evnen til en datamaskin til midlertidig å lagre og behandle data."
+      },
+      {
+        "begrep": "Interne minne",
+        "forklaring": "Datamaskinens hovedlagringsenhet som brukes til midlertidig lagring av data og programmer."
+      },
+      {
+        "begrep": "Eksterne lagringsenheter",
+        "forklaring": "Separate enheter som brukes til permanent eller midlertidig lagring av data utenfor datamaskinens hovedsystem."
+      },
+      {
+        "begrep": "Bredbånd",
+        "forklaring": "Høyhastighets internettforbindelse som muliggjør rask dataoverføring."
+      },
+      {
+        "begrep": "Mobilnett",
+        "forklaring": "Mobiltelefonnettverk som tillater trådløs kommunikasjon og dataoverføring."
+      },
+      {
+        "begrep": "Punktmatrise",
+        "forklaring": "En matrise som representerer hvert punkt eller piksel i et bilde."
+      },
+      {
+        "begrep": "Fargestystemer",
+        "forklaring": "Systemer som brukes til å definere og representere farger på en enhetlig måte."
+      },
+      {
+        "begrep": "Filstørrelse",
+        "forklaring": "Størrelsen på en digital fil, vanligvis målt i bytes, kilobytes eller megabytes."
+      },
+      {
+        "begrep": "Kvalitetstap",
+        "forklaring": "Tap av bildekvalitet som oppstår under komprimering eller behandling av bilder."
+      },
+      {
+        "begrep": "Skalering",
+        "forklaring": "Prosessen med å endre størrelsen på et bilde uten å miste proporsjonene eller forvrengningen."
+      }
+    ]
+  }
+  
